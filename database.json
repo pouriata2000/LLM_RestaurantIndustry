@@ -1,0 +1,34 @@
+{
+    "chicken kebab": {
+        "price": 13.00,
+        "description": "Grilled chicken marinated in spices, served with rice and vegetables."
+    },
+    "ground beef kebab": {
+        "price": 14.00,
+        "description": "Tender ground beef skewers, served with pita bread and salad."
+    },
+    "broiled salmon": {
+        "price": 16.00,
+        "description": "Fresh broiled salmon seasoned with herbs, served with steamed vegetables."
+    },
+    "lamb kebab": {
+        "price": 19.00,
+        "description": "Juicy lamb kebabs grilled to perfection, served with saffron rice."
+    },
+    "barg kebab": {
+        "price": 20.00,
+        "description": "Filet mignon kebabs marinated in special spices, served with grilled vegetables."
+    },
+    "beef shish kebab": {
+        "price": 20.00,
+        "description": "Tender beef skewers grilled with bell peppers and onions, served with bread."
+    },
+    "eggplant dip": {
+        "price": 7.99,
+        "description": "Smoky roasted eggplant blended with tahini and spices, served with pita."
+    },
+    "yoghurt cucumber dip": {
+        "price": 4.00,
+        "description": "Refreshing yoghurt dip with cucumber and mint, perfect as an appetizer."
+    }
+}
